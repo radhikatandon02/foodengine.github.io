@@ -7,7 +7,7 @@
 }
 #navbar ul li a{
     font-size: 0.9rem;
-    padding: 4px 4px;
+    padding: 4px 6px;
     /* padding-bottom: 8px; */
 }
 /* Home section */
@@ -72,12 +72,12 @@
 
 /* Utility classes */
 .h-primary{
-    font-size:1.8rem;
+    font-size:1.6rem;
     padding: 10px;
     margin: 8px;
 }
 .h-secondary{
-    font-size: 1.8rem;
+    font-size: 1.2rem;
     padding: 8px;
 }
 
